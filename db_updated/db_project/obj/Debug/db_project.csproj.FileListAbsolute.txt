@@ -1,0 +1,28 @@
+C:\Users\Administrator\OneDrive\Documents\Visual Studio 2015\Projects\db_project\db_project\bin\Debug\db_project.exe.config
+C:\Users\Administrator\OneDrive\Documents\Visual Studio 2015\Projects\db_project\db_project\bin\Debug\db_project.exe
+C:\Users\Administrator\OneDrive\Documents\Visual Studio 2015\Projects\db_project\db_project\bin\Debug\db_project.pdb
+C:\Users\Administrator\OneDrive\Documents\Visual Studio 2015\Projects\db_project\db_project\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Administrator\OneDrive\Documents\Visual Studio 2015\Projects\db_project\db_project\obj\Debug\db_project.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\OneDrive\Documents\Visual Studio 2015\Projects\db_project\db_project\obj\Debug\db_project.login.resources
+C:\Users\Administrator\OneDrive\Documents\Visual Studio 2015\Projects\db_project\db_project\obj\Debug\db_project.Properties.Resources.resources
+C:\Users\Administrator\OneDrive\Documents\Visual Studio 2015\Projects\db_project\db_project\obj\Debug\db_project.csproj.GenerateResource.Cache
+C:\Users\Administrator\OneDrive\Documents\Visual Studio 2015\Projects\db_project\db_project\obj\Debug\db_project.exe
+C:\Users\Administrator\OneDrive\Documents\Visual Studio 2015\Projects\db_project\db_project\obj\Debug\db_project.pdb
+C:\Users\Administrator\OneDrive\Documents\Visual Studio 2015\Projects\db_project\db_project\obj\Debug\db_project.main.resources
+C:\Users\Administrator\OneDrive\Documents\Visual Studio 2015\Projects\db_project\db_project\obj\Debug\db_project.admin.resources
+C:\Users\Administrator\OneDrive\Documents\Visual Studio 2015\Projects\db_project\db_project\obj\Debug\db_project.customer.resources
+C:\Users\Administrator\OneDrive\Documents\Visual Studio 2015\Projects\db_project\db_project\obj\Debug\db_project.salesman.resources
+C:\Users\Administrator\OneDrive\Documents\Visual Studio 2015\Projects\db_project\db_project\obj\Debug\db_project.category.resources
+C:\Users\Administrator\OneDrive\Documents\Visual Studio 2015\Projects\db_project\db_project\obj\Debug\db_project.cust2.resources
+C:\Users\Administrator\OneDrive\Documents\Visual Studio 2015\Projects\db_project\db_project\obj\Debug\db_project.product.resources
+C:\Users\Administrator\OneDrive\Documents\Visual Studio 2015\Projects\db_project\db_project\obj\Debug\db_project.accmanage.resources
+C:\Users\Administrator\OneDrive\Documents\Visual Studio 2015\Projects\db_project\db_project\obj\Debug\db_project.vend2.resources
+C:\Users\Administrator\OneDrive\Documents\Visual Studio 2015\Projects\db_project\db_project\obj\Debug\db_project.vendor.resources
+C:\Users\Administrator\OneDrive\Documents\Visual Studio 2015\Projects\db_project\db_project\obj\Debug\db_project.noti.resources
+C:\Users\Administrator\OneDrive\Documents\Visual Studio 2015\Projects\db_project\db_project\obj\Debug\db_project.report.resources
+C:\Users\Administrator\OneDrive\Desktop\db_updated\db_project\bin\Debug\db_project.exe.config
+C:\Users\Administrator\OneDrive\Desktop\db_updated\db_project\obj\Debug\db_project.exe
+C:\Users\Administrator\OneDrive\Desktop\db_updated\db_project\obj\Debug\db_project.pdb
+C:\Users\Administrator\OneDrive\Desktop\University\SEMESTER 4\db_updated\db_project\bin\Debug\db_project.exe.config
+C:\Users\Administrator\OneDrive\Desktop\University\SEMESTER 4\db_updated\db_project\obj\Debug\db_project.exe
+C:\Users\Administrator\OneDrive\Desktop\University\SEMESTER 4\db_updated\db_project\obj\Debug\db_project.pdb
