@@ -22,9 +22,9 @@ Manage customer information, including purchase history and preferences.
 Implement a secure login system to control access levels for different users within the grocery store.
 
 # Technology Stack
-Programming Language: C#, SQL
-Database: Oracle 11g
-Development Environment: Visual Studio with .NET Framework
+- Programming Language: C#, SQL
+- Database: Oracle 11g
+- Development Environment: Visual Studio with .NET Framework
 
 # How to Run
 To run the Grocery Shop Management System, follow these steps:
